@@ -1,5 +1,5 @@
 
-# Product IO Assignment
+# Product IO
 
 A simple working api with 22 endpoints, specifically designed for Product IO website.
 With logical database django models using the inbuilt sqllite3 databse in django.
